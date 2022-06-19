@@ -1,3 +1,3 @@
 # git
-Kevin Morco
+Kevin Christopher Morco
 git-practice
